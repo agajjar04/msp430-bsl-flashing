@@ -1,0 +1,5 @@
+This Application is used to flash first time your 
+msp430 microcontroller over uart using bsl protocol
+
+Application completes it with maximium 3 tries to
+flash msp430.
