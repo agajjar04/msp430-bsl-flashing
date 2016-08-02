@@ -1,11 +1,8 @@
 /* 
     Author: 	 Akash Gajjar <akash.gajjar@einfochips.com>
-    Client:      Aflak
-    Project: 	 Falcon-eye
-    Description: This code flash the msp430 on falcon-eye ptz motor control board
-		 over bsl protocol, code it self enter the msp430 into bsl mode,
-		 flash the msp430, exit bsl mode and send the detect command to
-		 check device programming succeed or not.
+    Description: This code flash the msp430 on over bsl protocol, 
+    		 code it self enter the msp430 into bsl mode,
+		 flash the msp430, exit bsl mode.
  */
 
 #include <stdio.h>
